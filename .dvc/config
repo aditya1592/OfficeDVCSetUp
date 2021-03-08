@@ -1,0 +1,7 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = ssh://aditya.patwa@10.221.31.43:22/remoteDir1
+    user = aditya.patwa
+    port = 22
+    password = lge123
